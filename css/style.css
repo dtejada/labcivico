@@ -61,7 +61,6 @@ p {
 }
 
 h1,h2,h3 {
-    font-family: 'Belgrano', serif;
     line-height: 1.4em;
     color: #222222;
     margin: 10px 0;
@@ -75,7 +74,8 @@ h4,h5 {
 }
 
 h1 {
-    font-size: 5.5rem;
+	font-size: 6rem;
+	font-weight: bold;
 }
 
 h2 {
@@ -512,7 +512,7 @@ Tabs ===============*/
 }
 
 .nav-tabs > li > a {
-	font-family: 'Belgrano', serif;
+	font-family: 'Amatic SC', sans-serif;
 	font-size: 2.2rem;
 	color: #bbbac0;
 	padding: 1rem 4rem;
@@ -770,7 +770,7 @@ Pricing Tables =====*/
 }
 
 .table-price {
-	font-family: 'Belgrano', serif;
+	font-family: 'Amatic SC', sans-serif;
 	color: #ffffff;
 	font-size: 2.6rem;
 }
@@ -1003,4 +1003,19 @@ Copyrights =========*/
 
 .copyrights img {
 	margin-left: 60px;
+}
+
+
+/*Home*/
+
+section#home {
+  position: absolute;
+  width: 100%;
+  z-index: 50;
+  top: 50px;
+  margin: 0 auto;
+}
+
+#home .box {
+  background: rgba(255, 255, 255, 0.7);
 }
