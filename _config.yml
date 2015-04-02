@@ -1,9 +1,8 @@
 # site settings
-title: Abrelatam 2015
-# email: info@ciudadanointeligente.org
-description: "Un encuentro abierto, por una región abierta"
-baseurl: "http://ciudadanointeligente.github.io/abrelatam/"
-# "http://abrelatam.org"
+title: Laboratorio Cívico
+# email: lab@ciudadanointeligente.org
+description: "Experimientos ciudadanos para el cambio social"
+baseurl: "http://labcivico.org"
 twitter_username: ciudadanoi
 github_username:  ciudadanointeligente
 # analytics: 'UA-41822715-1'
