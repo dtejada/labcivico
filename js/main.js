@@ -2,8 +2,8 @@
     "use strict";
 
     ///////////////////////////////////////////////////// Your
-    var venueAddress = "Liber Bernardo O'Higgins 227, Santiago"; // Venue
-    var placeName = "Centro Gabriela Mistral";
+    var venueAddress = "Pasaje Fabiani Sanchez Lima 2687, La Paz, Bolivia"; // Venue
+    var placeName = "Bolivia Tech Hub. Pasaje Fabiani Sanchez Lima 2687";
     /////////////////////////////////////////////////// Adress
 
     var fn = {
