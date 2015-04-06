@@ -45,11 +45,11 @@ a, a:hover, a:active, a:focus {
 
 a {
     text-decoration:none;
-    color: #0ECABF;
+    color: #69C4D3;
 }
 
 a:hover {
-  color: #4A81EE;
+  color: #45D5ED;
     text-decoration:none;
 }
 
@@ -319,7 +319,8 @@ input[type='submit']:hover, input[type='submit']:active {
   position: relative;
   float: left;
   width: 100%;
-  min-height: 250px;
+  min-height: 300px;
+  margin-top: -100px;
 }
 
 .footer {
@@ -1090,4 +1091,16 @@ section#home {
 
 .full-width {
   width: 100%;
+}
+
+/*Blog*/
+
+.post {
+  border-bottom: 2px solid #efefef;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+.post p.small {
+  margin-top: -13px;
 }

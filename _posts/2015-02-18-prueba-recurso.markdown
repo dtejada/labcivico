@@ -2,7 +2,7 @@
 layout: post
 title:  "Ejemplo de recurso"
 date:   2015-02-19 12:38:49
-categories: recursos-left
+categories: post
 ---
 
 Texto de prueba
